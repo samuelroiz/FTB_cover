@@ -22,7 +22,7 @@ class Linker extends HTMLElement {
           <div class="col-sm-12 col-md-3 humidity-wobble">
               <div class="thumbnail">
                 <a href="/mr">
-                    <img src="../static/images/MessiVsRonaldo.jpg" alt="..." class="img-thumbnail">
+                    <img src="static/images/MessiVsRonaldo.jpg" alt="..." class="img-thumbnail">
                 </a>                    </div>
             <div class="caption text-center">
                 <p>Messi Vs. Ronaldo</p>
@@ -43,7 +43,7 @@ class Linker extends HTMLElement {
             <div class="col-sm-12 col-md-3 humidity-wobble">
               <div class="thumbnail">
                 <a href="/transfers">
-                    <img src="../static/images/transfers.jpg" alt="..." class="img-thumbnail">
+                    <img src="static/images/transfers.jpg" alt="..." class="img-thumbnail">
                 </a>  
               </div>
               <div class="caption text-center">
